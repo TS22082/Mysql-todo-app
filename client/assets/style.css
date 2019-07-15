@@ -1,0 +1,8 @@
+body {
+  padding: 100px;
+}
+
+.todoInput {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
